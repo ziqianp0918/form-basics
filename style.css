@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+    font-size: 25px;
+    line-height: 1.5;
+    
+    font-family: "Oswald", "Helvetica Neue";
+    color: #2884C3;
+}
+
+input {
+    margin: 5px;
+    height: 30px;
+    
+}
+
+button {
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+button:hover {
+  background: #3cb0fd;
+  
+}
