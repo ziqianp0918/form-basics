@@ -43,7 +43,7 @@ input {
     height: 50px;
 }
 
-button:hover {
+.blue-button:hover {
     background: #3cb0fd;
 }
 
